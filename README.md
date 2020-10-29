@@ -5,13 +5,13 @@ To login as admin use admin, admin for username and password. You can manage oth
 
 * As a user, you can have insight into list of products that you can buy.
 
-![WebShopScreen1](https://s32.postimg.org/syfa3wi91/webshop1.jpg)
-![WebShopScreen2](https://s31.postimg.org/u3cid304r/webshop2.jpg)
-![WebShopScreen3](https://s31.postimg.org/prllyyo63/webshop3.jpg)
-![WebShopScreen4](https://s32.postimg.org/o5yfqvws5/webshop4.jpg)
-![WebShopScreen5](https://s32.postimg.org/mg6xcmvpx/webshop5.jpg)
-![WebShopScreenuser](https://s31.postimg.org/92dxc1ei3/webshop22.jpg)
-![WebShopScreenuser1](https://s31.postimg.org/x7emtqysr/webshop6.jpg)
-![WebShopScreenuser2](https://s32.postimg.org/ixp6vo5wl/webshop7.jpg)
+![WebShopScreen1](pics/webshop1.jpg)
+![WebShopScreen2](pics/webshop2.jpg)
+![WebShopScreen3](pics/webshop3.jpg)
+![WebShopScreen4](pics/webshop4.jpg)
+![WebShopScreen5](pics/webshop5.jpg)
+![WebShopScreenuser](pics/webshop22.jpg)
+![WebShopScreenuser1](pics/webshop6.jpg)
+![WebShopScreenuser2](pics/webshop7.jpg)
 
 All suggestions are welcome!
